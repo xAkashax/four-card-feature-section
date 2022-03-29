@@ -29,8 +29,8 @@ Desktop
 Mobile
 ![](./mobile.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/four-card-feature-section-using-flex-and-position-absolute-B1NoGZ-7q)
+- Live Site URL: [Live Demo](https://grand-vacherin-3c140a.netlify.app/)
 
 ## My process
 
